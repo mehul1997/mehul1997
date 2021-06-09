@@ -1,9 +1,9 @@
 <h1 align="center">Mehul Pradhan</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Fullstack Web development**
+- 🌱  I’m currently learning **Fullstack Web development**
 
-- 📫 How to reach me **mehulpradhan1997@gmail.com**
+- 📫  How to reach me **mehulpradhan1997@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
