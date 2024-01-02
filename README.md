@@ -20,6 +20,8 @@ Mail to -  **mehulpradhan1997@gmail.com**
 
 <img width="672" alt="image" src="https://github.com/mehul1997/mehul1997/assets/48156537/101f1a01-96dd-4e95-b01a-c4661d2640e9">
 
+<p>Book chapter Link</p>
+<p>https://books.google.co.in/books?hl=en&lr=&id=TLEjEAAAQBAJ&oi=fnd&pg=PA37&dq=statistical+Methods+for+reproducible+data+analysis&ots=H_xhisnTFv&sig=m_S21DegtA5HvKs0-30YFfGf_l0#v=onepage&q=statistical%20Methods%20for%20reproducible%20data%20analysis&f=false</p>
 
 
 
